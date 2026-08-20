@@ -1,7 +1,6 @@
 <!-- 🌧️ Animated Rain Header -->
 <p align="center">
-  <img src="./rain.gif" width="100%" alt="Rain Animation"/>
-</p>
+  <img src="./rain.svg" width="100%" alt="Rain Animation"/>
 
 <h1 align="center">Hi 👋, I'm Ayush Tiwari</h1>
 
