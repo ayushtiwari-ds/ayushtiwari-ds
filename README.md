@@ -79,27 +79,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushtiwari-ds&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtiwari-ds&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushtiwari-ds&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 <h3 align="center">
   🌱 Learning • Building • Improving
 </h3>
