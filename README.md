@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./rain.svg" width="100%" alt="Rain Animation"/>
 
-<h1 align="center">Hi 👋, I'm Ayush Tiwari</h1>
+<h1 align="center">Hi, I'm Ayush Tiwari</h1>
 
 <h3 align="center">
   CSE (Data Science) Student | Developer | Problem Solver
@@ -36,7 +36,7 @@
 
 ---
 
-## 🧠 Data Science & Machine Learning
+##  Data Science & Machine Learning
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
@@ -51,7 +51,7 @@
 
 ---
 
-## ⚛️ Development
+##  Development
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
@@ -64,7 +64,7 @@
 
 ---
 
-## 🛠️ Tools & Platforms
+##  Tools & Platforms
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
@@ -80,9 +80,9 @@
 
 ---
 <h3 align="center">
-  🌱 Learning • Building • Improving
+   Learning • Building • Improving
 </h3>
 
 <p align="center">
-  💧 Consistency is the key to success.
+   Consistency is the key to success.
 </p>
