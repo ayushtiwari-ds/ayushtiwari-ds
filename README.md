@@ -1,37 +1,29 @@
-<!-- 🌧️ Animated Rain Header -->
+<!-- 🌧️ Animated Header -->
 <p align="center">
-  <img src="./rain.svg" width="100%" alt="Rain Animation"/>
+  <img src="./rain.svg" width="100%" alt="Animated Rain"/>
 </p>
 
 <h1 align="center">Hi, I'm Ayush Tiwari 👋</h1>
+
+<p align="center">
+  <img src="./particles.svg" width="100%" alt="Animated Particles"/>
+</p>
 
 <h3 align="center">
   CSE (Data Science) Student | Aspiring SDE | Developer
 </h3>
 
 <p align="center">
-  <i>Building with code, exploring data, and solving problems.</i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-tiwari-2a408b328">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/ayushtiwari-ds">
-    <img src="https://img.shields.io/badge/GitHub-ayushtiwari--ds-black?style=for-the-badge&logo=github"/>
-  </a>
+  Building • Learning • Solving
 </p>
 
 ---
 
-## 🚀 About Me
+## 💻 Developer Terminal
 
-- 🎓 CSE (Data Science) student
-- 💻 Interested in Software Development & Data Science
-- 🧠 Strengthening Data Structures & Algorithms
-- 🌱 Currently improving my Java, Python and SQL skills
-- 🔨 Building practical projects to solve real-world problems
-- 🎯 Preparing myself for Software Development Engineer opportunities
+<p align="center">
+  <img src="./terminal.svg" width="90%" alt="Developer Terminal"/>
+</p>
 
 ---
 
@@ -83,12 +75,7 @@
 ## 🧠 Core Computer Science
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-%23000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Algorithms-%23000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-%23000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DBMS-%23000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-%23000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-%23000000?style=for-the-badge"/>
+  Data Structures • Algorithms • OOP • DBMS • Operating Systems • Computer Networks
 </p>
 
 ---
@@ -129,17 +116,16 @@ A smart agriculture advisory concept designed to help farmers access useful info
 
 ### ⛏️ Mine Vehicle Safety System
 
-A safety-focused project designed for improving vehicle operation in fog and low-visibility conditions in open-cast mines.
+A safety-focused project for improving vehicle operation in fog and low-visibility conditions in open-cast mines.
 
 **Focus:** Sensors • IoT • Safety Automation
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushtiwari-ds&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtiwari-ds&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushtiwari-ds&show_icons=true&theme=transparent&hide_border=true"/>
 </p>
 
 ---
@@ -152,12 +138,14 @@ A safety-focused project designed for improving vehicle operation in fog and low
 
 ---
 
-## 🎯 Current Focus
+<p align="center">
+  <img src="./wave.svg" width="100%" alt="Animated Wave"/>
+</p>
 
-```text
-DSA                 ███████████████░░░  80%
-Java                ██████████████░░░░  75%
-Python              █████████████░░░░░  70%
-SQL                 ████████████░░░░░░  65%
-Web Development     █████████████░░░░░  70%
-Machine Learning    ██████████░░░░░░░░  55%
+<h3 align="center">
+  Learning • Building • Improving
+</h3>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
