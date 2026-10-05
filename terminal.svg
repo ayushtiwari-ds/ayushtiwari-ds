@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<rect width="900" height="300" rx="18" fill="#0d1117"/>
+<circle cx="28" cy="25" r="7" fill="#ff5f56"/><circle cx="50" cy="25" r="7" fill="#ffbd2e"/><circle cx="72" cy="25" r="7" fill="#27c93f"/>
+<text x="30" y="75" fill="#8b949e" font-family="monospace" font-size="20">&gt; whoami</text>
+<text x="30" y="108" fill="#58a6ff" font-family="monospace" font-size="24">Ayush Tiwari</text>
+<text x="30" y="150" fill="#8b949e" font-family="monospace" font-size="20">&gt; focus</text>
+<text x="30" y="183" fill="#7ee787" font-family="monospace" font-size="21">DSA • Java • Python • SQL • ML</text>
+<text x="30" y="225" fill="#8b949e" font-family="monospace" font-size="20">&gt; status</text>
+<text x="30" y="258" fill="#f2cc60" font-family="monospace" font-size="21">Building...</text>
+<rect x="175" y="244" width="11" height="22" fill="#f2cc60">
+  <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+</rect>
+</svg>
